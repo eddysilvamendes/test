@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397209647594",
+    "project_id": "cheff-352516",
+    "storage_bucket": "cheff-352516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397209647594:android:b68bb199a52e5942971a93",
+        "android_client_info": {
+          "package_name": "com.dbestech.dbfoodTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397209647594-urpb66q292fsu1k6mm7taefqenracbuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnllj1SUwwy8o-wzGytCObq8WS-ImT-qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397209647594-urpb66q292fsu1k6mm7taefqenracbuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
